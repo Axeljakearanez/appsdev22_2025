@@ -1,0 +1,16 @@
+C:\Users\OO105\source\repos\SimpleformApp\SimpleformApp\obj\Debug\net8.0-windows\SimpleformApp.Form1.resources
+C:\Users\OO105\source\repos\SimpleformApp\SimpleformApp\obj\Debug\net8.0-windows\SimpleformApp.csproj.GenerateResource.cache
+C:\Users\OO105\source\repos\SimpleformApp\SimpleformApp\obj\Debug\net8.0-windows\SimpleformApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OO105\source\repos\SimpleformApp\SimpleformApp\obj\Debug\net8.0-windows\SimpleformApp.AssemblyInfoInputs.cache
+C:\Users\OO105\source\repos\SimpleformApp\SimpleformApp\obj\Debug\net8.0-windows\SimpleformApp.AssemblyInfo.cs
+C:\Users\OO105\source\repos\SimpleformApp\SimpleformApp\obj\Debug\net8.0-windows\SimpleformApp.csproj.CoreCompileInputs.cache
+C:\Users\OO105\source\repos\SimpleformApp\SimpleformApp\bin\Debug\net8.0-windows\SimpleformApp.exe
+C:\Users\OO105\source\repos\SimpleformApp\SimpleformApp\bin\Debug\net8.0-windows\SimpleformApp.deps.json
+C:\Users\OO105\source\repos\SimpleformApp\SimpleformApp\bin\Debug\net8.0-windows\SimpleformApp.runtimeconfig.json
+C:\Users\OO105\source\repos\SimpleformApp\SimpleformApp\bin\Debug\net8.0-windows\SimpleformApp.dll
+C:\Users\OO105\source\repos\SimpleformApp\SimpleformApp\bin\Debug\net8.0-windows\SimpleformApp.pdb
+C:\Users\OO105\source\repos\SimpleformApp\SimpleformApp\obj\Debug\net8.0-windows\SimpleformApp.dll
+C:\Users\OO105\source\repos\SimpleformApp\SimpleformApp\obj\Debug\net8.0-windows\refint\SimpleformApp.dll
+C:\Users\OO105\source\repos\SimpleformApp\SimpleformApp\obj\Debug\net8.0-windows\SimpleformApp.pdb
+C:\Users\OO105\source\repos\SimpleformApp\SimpleformApp\obj\Debug\net8.0-windows\SimpleformApp.genruntimeconfig.cache
+C:\Users\OO105\source\repos\SimpleformApp\SimpleformApp\obj\Debug\net8.0-windows\ref\SimpleformApp.dll
