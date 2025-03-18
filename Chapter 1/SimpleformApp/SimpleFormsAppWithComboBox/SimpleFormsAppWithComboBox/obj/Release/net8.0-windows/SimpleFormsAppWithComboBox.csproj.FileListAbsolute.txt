@@ -1,0 +1,6 @@
+C:\Users\aeron joshua\OneDrive\Documents\Axel Documents\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Release\net8.0-windows\SimpleFormsAppWithComboBox.Form1.resources
+C:\Users\aeron joshua\OneDrive\Documents\Axel Documents\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Release\net8.0-windows\SimpleFormsAppWithComboBox.csproj.GenerateResource.cache
+C:\Users\aeron joshua\OneDrive\Documents\Axel Documents\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Release\net8.0-windows\SimpleFormsAppWithComboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeron joshua\OneDrive\Documents\Axel Documents\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Release\net8.0-windows\SimpleFormsAppWithComboBox.AssemblyInfoInputs.cache
+C:\Users\aeron joshua\OneDrive\Documents\Axel Documents\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Release\net8.0-windows\SimpleFormsAppWithComboBox.AssemblyInfo.cs
+C:\Users\aeron joshua\OneDrive\Documents\Axel Documents\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Release\net8.0-windows\SimpleFormsAppWithComboBox.csproj.CoreCompileInputs.cache
