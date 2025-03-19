@@ -1,0 +1,16 @@
+C:\Users\OO105\source\repos\Simple Iphone loan app\Simple Iphone loan app\bin\Debug\net8.0-windows\Simple Iphone loan app.exe
+C:\Users\OO105\source\repos\Simple Iphone loan app\Simple Iphone loan app\bin\Debug\net8.0-windows\Simple Iphone loan app.deps.json
+C:\Users\OO105\source\repos\Simple Iphone loan app\Simple Iphone loan app\bin\Debug\net8.0-windows\Simple Iphone loan app.runtimeconfig.json
+C:\Users\OO105\source\repos\Simple Iphone loan app\Simple Iphone loan app\bin\Debug\net8.0-windows\Simple Iphone loan app.dll
+C:\Users\OO105\source\repos\Simple Iphone loan app\Simple Iphone loan app\bin\Debug\net8.0-windows\Simple Iphone loan app.pdb
+C:\Users\OO105\source\repos\Simple Iphone loan app\Simple Iphone loan app\obj\Debug\net8.0-windows\Simple_Iphone_loan_app.Form1.resources
+C:\Users\OO105\source\repos\Simple Iphone loan app\Simple Iphone loan app\obj\Debug\net8.0-windows\Simple Iphone loan app.csproj.GenerateResource.cache
+C:\Users\OO105\source\repos\Simple Iphone loan app\Simple Iphone loan app\obj\Debug\net8.0-windows\Simple Iphone loan app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OO105\source\repos\Simple Iphone loan app\Simple Iphone loan app\obj\Debug\net8.0-windows\Simple Iphone loan app.AssemblyInfoInputs.cache
+C:\Users\OO105\source\repos\Simple Iphone loan app\Simple Iphone loan app\obj\Debug\net8.0-windows\Simple Iphone loan app.AssemblyInfo.cs
+C:\Users\OO105\source\repos\Simple Iphone loan app\Simple Iphone loan app\obj\Debug\net8.0-windows\Simple Iphone loan app.csproj.CoreCompileInputs.cache
+C:\Users\OO105\source\repos\Simple Iphone loan app\Simple Iphone loan app\obj\Debug\net8.0-windows\Simple Iphone loan app.dll
+C:\Users\OO105\source\repos\Simple Iphone loan app\Simple Iphone loan app\obj\Debug\net8.0-windows\refint\Simple Iphone loan app.dll
+C:\Users\OO105\source\repos\Simple Iphone loan app\Simple Iphone loan app\obj\Debug\net8.0-windows\Simple Iphone loan app.pdb
+C:\Users\OO105\source\repos\Simple Iphone loan app\Simple Iphone loan app\obj\Debug\net8.0-windows\Simple Iphone loan app.genruntimeconfig.cache
+C:\Users\OO105\source\repos\Simple Iphone loan app\Simple Iphone loan app\obj\Debug\net8.0-windows\ref\Simple Iphone loan app.dll
